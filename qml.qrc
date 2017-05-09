@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Grouplogic.js</file>
+        <file>GroupButton.qml</file>
+        <file>property.js</file>
+    </qresource>
+</RCC>
